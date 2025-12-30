@@ -13,11 +13,5 @@
       "webRoot": "${workspaceFolder}",
       "file": "${workspaceFolder}/src/index.html"
     },
-    {
-      "type": "chrome",
-      "request": "launch",
-      "file": "${workspaceFolder}/src/index.html",
-      "name": "Launch Chrome"
-    }
   ]
 }
