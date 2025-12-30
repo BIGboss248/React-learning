@@ -27,6 +27,11 @@
     "redhat.vscode-yaml",
     "ms-vscode-remote.remote-wsl",
     "bierner.markdown-mermaid",
-    "aaron-bond.better-comments"
+    "aaron-bond.better-comments",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "dsznajder.es7-react-js-snippets",
+    "formulahendry.auto-rename-tag",
+    "bradlc.vscode-tailwindcss",
+    "wix.vscode-import-cost"
   ]
 }
